@@ -19,10 +19,11 @@ To run the program, follow these steps:
 4.	Follow the on-screen instructions to enter the Nth Fibonacci number to compute, or press 'Q' to exit the program.
 
 ## Additional points:
-•	If the user inputs a huge number, the application shows a caution notice since computing such a figure can take some time.
-•	The application handles unusual situations in which the user enters 1 or 2.
-•	By default, the software displays the first two Fibonacci numbers.
-•	A while loop is used in the software to compute the Nth Fibonacci number and shift the last two integers in the sequence.
+1.	If the user inputs a huge number, the application shows a caution notice since computing such a figure can take some time.
+2.	The application handles unusual situations in which the user enters 1 or 2.
+3.	By default, the software displays the first two Fibonacci numbers.
+4.	A while loop is used in the software to compute the Nth Fibonacci number and shift the last two integers in the sequence.
+
 
 ## Conclusion:
 This Python code shows how to compute the Nth Fibonacci number in the Fibonacci sequence in a simple yet beautiful way. You can simply run the program and verify its operation with different input values by following the steps above. The application also offers several extra features that make it more user-friendly and efficient.
